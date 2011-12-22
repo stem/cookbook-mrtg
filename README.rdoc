@@ -1,0 +1,10 @@
+= DESCRIPTION:
+
+Install and configure mrtg in order to graph switches and routers discovered from a data bag.
+
+= REQUIREMENTS:
+
+= ATTRIBUTES:
+
+= USAGE:
+
